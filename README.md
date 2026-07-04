@@ -18,12 +18,12 @@ Aula 01:
 
 Aula 02: 
 
-* Aplicar corretamente as tags para criar títulos e a tag para inserir parágrafos em uma página HTML;
-* Criar links internos e externos e controlar a abertura dos links em uma nova janela ou aba.
-* Aplicar elementos semânticos para formatar o texto de acordo com seu significado.
+- Aplicar corretamente as tags para criar títulos e a tag para inserir parágrafos em uma página HTML;
+- Criar links internos e externos e controlar a abertura dos links em uma nova janela ou aba.
+- Aplicar elementos semânticos para formatar o texto de acordo com seu significado.
 
 Aula 03:
 
-*Contêineres Semânticos:** Compreensão da importância de tags estruturais para a organização do conteúdo, acessibilidade e SEO (como `<header>`, `<main>`, `<section>`, e `<footer>`).
-*Seções Distintas:** Criação e divisão de áreas independentes e lógicas dentro de uma mesma página web.
-*Layout Estruturado:** Desenvolvimento de um esqueleto completo para páginas HTML, utilizando elementos de agrupamento para garantir um código limpo e padronizado.
+- Contêineres Semânticos:** Compreensão da importância de tags estruturais para a organização do conteúdo, acessibilidade e SEO (como `<header>`, `<main>`, `<section>`, e `<footer>`).
+- Seções Distintas:** Criação e divisão de áreas independentes e lógicas dentro de uma mesma página web.
+- Layout Estruturado:** Desenvolvimento de um esqueleto completo para páginas HTML, utilizando elementos de agrupamento para garantir um código limpo e padronizado.
