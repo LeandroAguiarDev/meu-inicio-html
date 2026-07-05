@@ -27,3 +27,9 @@ Aula 03:
 - Contêineres Semânticos:** Compreensão da importância de tags estruturais para a organização do conteúdo, acessibilidade e SEO (como `<header>`, `<main>`, `<section>`, e `<footer>`).
 - Seções Distintas:** Criação e divisão de áreas independentes e lógicas dentro de uma mesma página web.
 - Layout Estruturado:** Desenvolvimento de um esqueleto completo para páginas HTML, utilizando elementos de agrupamento para garantir um código limpo e padronizado.
+
+Aula 04:
+
+- compreender a estrutura de listas em HTML;
+- criar listas ordenadas e não ordenadas usando os elementos apropriados em HTML. 
+
