@@ -30,22 +30,28 @@ Aula 003:
 
 Aula 004:
 
-- compreender a estrutura de listas em HTML;
-- criar listas ordenadas e não ordenadas usando os elementos apropriados em HTML. 
+- Compreender a estrutura de listas em HTML;
+- Criar listas ordenadas e não ordenadas usando os elementos apropriados em HTML. 
 
 Aula 005:
 
-- compreender a estrutura básica de uma tabela em HTML;
-- criar tabelas completas com cabeçalho, corpo e rodapé.
+- Compreender a estrutura básica de uma tabela em HTML;
+- Criar tabelas completas com cabeçalho, corpo e rodapé.
 
 Aula 006:
 
-- compreender a estrutura básica de um formulário em HTML;
-- criar diversos tipos de campos de formulário, incluindo campos de texto simples, campos de número, caixas de seleção, botões de opção, caixas de combinação (select), e áreas de texto;
-- compreender como os diferentes tipos de campos interagem com os usuários e como eles podem ser usados para coletar informações de maneira interativa. 
+- Compreender a estrutura básica de um formulário em HTML;
+- Criar diversos tipos de campos de formulário, incluindo campos de texto simples, campos de número, caixas de seleção, botões de opção, caixas de combinação (select), e áreas de texto;
+- Compreender como os diferentes tipos de campos interagem com os usuários e como eles podem ser usados para coletar informações de maneira interativa. 
 
 Aula 007: 
 
-- compreender a estrutura básica de label e type para user e password
+- Compreender a estrutura básica de label e type para user e password
 
 Aula 008:
+    A entrega desse exercício consiste em:
+
+- Criar um arquivo HTML que contenha um formulário de cadastro, com os campos nome, e-mail e senha e a existência de um botão para realizar o cadastro;
+- Adicionar também uma label para cada campo e referenciar essa label ao ID que será atribuído ao campo;
+- Enviar esse arquivo para o Github em uma branch chamada exercício_html;
+- Enviar o link para nossos tutores.
