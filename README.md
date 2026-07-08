@@ -44,3 +44,8 @@ Aula 006:
 - criar diversos tipos de campos de formulário, incluindo campos de texto simples, campos de número, caixas de seleção, botões de opção, caixas de combinação (select), e áreas de texto;
 - compreender como os diferentes tipos de campos interagem com os usuários e como eles podem ser usados para coletar informações de maneira interativa. 
 
+Aula 007: 
+
+- compreender a estrutura básica de label e type para user e password
+
+Aula 008:
